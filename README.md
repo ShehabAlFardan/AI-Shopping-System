@@ -21,3 +21,7 @@ Which Role you would like to take in the Project
 To Shehab Anwar Alfardan :20180735@stu.uob.edu.bh to add you to our MS chat Room and instroduce you to the team.
 Wahtsapp Group:
 We use whatsapp to send quick notifications and reminders about the meetings. To join the Whatsapp Group please send an e-amil to one of the Project admins with your name and phone number.
+
+# FAQ:
+please visit this page for the FAQs:
+https://github.com/ShehabAlFardan/AI-Shopping-System/blob/main/FAQ.docx
