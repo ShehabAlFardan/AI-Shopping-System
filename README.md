@@ -19,7 +19,7 @@ E-mail adress<br/>
 How you would like to improve our project<br/>
 Which Role you would like to take in the Project<br/>
 Detailed desription of your technical experience <br/> 
-To Shehab Anwar Alfardan :20180735@stu.uob.edu.bh to add you to our MS chat Room and instroduce you to the team.<br/>
+To Shehab Anwar Alfardan :20180735@stu.uob.edu.bh to add you to our MS chat Room and introduce you to the team.<br/>
 Wahtsapp Group:<br/>
 We use whatsapp to send quick notifications and reminders about the meetings. To join the Whatsapp Group please send an e-amil to one of the Project admins with your name and phone number.
 
