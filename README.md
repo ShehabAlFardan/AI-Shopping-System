@@ -2,18 +2,18 @@
 
 # Communication Channels:
 in this File you will find the way to communicate with Our team.
-
+<br/>
 Malinig List:
 Qabas Khaled Elayan :20174867@stu.uob.edu.bh
 Shehab Anwar Alfardan :20180735@stu.uob.edu.bh
-Tala Ziad : 20188136@stu.uob.edu.bh
-Mariam Wayel: 20170452@stu.uob.edu.bh
-Mariam Azzam :20172549@stu.uob.edu.bh
-
+Saffa Musawar Rashid : 20188136@stu.uob.edu.bh
+Wafa Maad Alfadhli: 20170452@stu.uob.edu.bh
+Mohammed Jamal AlSayed :20172549@stu.uob.edu.bh
+<br/>
 Chat Rooms:
 We are using Microsoft Teams chatRooms to hold disscustions and to Share files.
 Please send an e-mail With:
-
+<br/>
 Your name
 E-mail adress
 How you would like to improve our project
