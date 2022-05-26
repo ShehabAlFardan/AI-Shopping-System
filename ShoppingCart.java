@@ -3,7 +3,6 @@ import java.awt.*;
 import java.net.*;
 import java.util.*;
 
-// This class is a simple container of shopping cart items.
 // It is observable, which means that it notifies any interested
 // classes whenever it changes.
 
