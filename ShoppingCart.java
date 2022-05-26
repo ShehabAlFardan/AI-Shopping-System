@@ -26,7 +26,7 @@ public class ShoppingCart extends Observable
 // See if there's already an item like this in the cart
 		int currIndex = items.indexOf(newItem);
 
-		ShoppingCartEvent event = new ShoppingCartEvent();
+	       ShoppingCartEvent event = new ShoppingCartEvent();
 
 		if (currIndex == -1) {
 // If the item is new, add it to the cart
