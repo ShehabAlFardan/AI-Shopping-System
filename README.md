@@ -1,6 +1,6 @@
 # AI-Shopping-System
 
-Communication Channels:
+# Communication Channels:
 in this File you will find the way to communicate with Our team.
 
 Malinig List:
