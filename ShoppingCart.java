@@ -39,7 +39,8 @@ public class ShoppingCart extends Observable
 		ShoppingCartItem currItem =
 			(ShoppingCartItem) 
 			items.elementAt(currIndex);
-
+			
+			
 		currItem.add(newItem);
 		event.item = currItem;
 		event.eventType = ShoppingCartEvent.CHANGED_ITEM;
